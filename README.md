@@ -2,6 +2,8 @@
 
 In this repository you'll find 2 examples of how to avoid re-rendering a hidden screen while using [react-navigation](https://github.com/react-navigation/react-navigation);
 
+* I'm using `react-navigation@^2.0.0-rc.1`, but they also works in `^1.5.11`
+
 They are:
 
 * [1-PerScreen](./1-PerScreen.js) - Kind of subscription-ish, where each screen have their own "instance"/state of the publisher
